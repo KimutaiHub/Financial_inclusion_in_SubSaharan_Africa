@@ -1,0 +1,26 @@
+# Virtual environment
+finclusion_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data (do not push)
+data_raw/
+data_clean/
+*.sqlite
+
+# Outputs (optional later)
+deployment/
+models/
+dashboards/
